@@ -1,6 +1,3 @@
-# app-dev
-My first respository
-
 # 10 things I hate about you 
 
 **Main Cast**
